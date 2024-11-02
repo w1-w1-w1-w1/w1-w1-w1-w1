@@ -3,14 +3,10 @@
 ───────────── ⋆⋅☆⋅⋆ ─────────────
 
 ✧ Мои текущие проекты ✧
+
 ⋆ Разработка лаунчера для Minecraft
 ⋆ Создание бота-викторины для Telegram
 ⋆ Изучение Python
-
-┊┊┊┊┊┊
-┊┊┊┊┊★
-┊┊┊┊☆
-┊┊┊✬
 
 ⋆｡°✩ Мой стек технологий ✩°｡⋆
 
@@ -20,12 +16,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ✧ ⋆ ┊ Статистика ┊ ⋆ ✧
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=w1-w1-w1-w1&show_icons=true&theme=tokyonight)
 
 ⋆ ˚｡⋆ Связаться со мной ⋆｡˚ ⋆
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w1_w1_w1_w1)
 
 ✧ Специализация ✧
+
 ⋆˚✿୨ Frontend разработка
 ⋆˚✿୨ Разработка ботов
 ⋆˚✿୨ Minecraft моддинг
