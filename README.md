@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_ЮЗЕРНЕЙМ&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=w1-w1-w1-w1&show_icons=true&theme=tokyonight)
 
 ## 🌐 Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w1_w1_w1_w1)
