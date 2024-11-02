@@ -26,4 +26,4 @@
 - Minecraft моддинг
 
 ---
-⭐️ From [w1](https://github.com/ВАШ_ЮЗЕРНЕЙМ)
+⭐️ Telegram [w1](https://t.me/w1_w1_w1_w1)
